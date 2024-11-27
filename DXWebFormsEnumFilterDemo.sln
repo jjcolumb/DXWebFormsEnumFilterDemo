@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXWebFormsEnumFilterDemo.Module", "DXWebFormsEnumFilterDemo.Module\DXWebFormsEnumFilterDemo.Module.csproj", "{EC7BF2F6-8784-40B8-B25C-201441A8DB65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXWebFormsEnumFilterDemo.Module.Web", "DXWebFormsEnumFilterDemo.Module.Web\DXWebFormsEnumFilterDemo.Module.Web.csproj", "{7F0EA234-9A75-429E-8713-4788076B790D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXWebFormsEnumFilterDemo.Web", "DXWebFormsEnumFilterDemo.Web\DXWebFormsEnumFilterDemo.Web.csproj", "{CBD28397-7B98-45E4-86E7-BCDF6548D06B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		EasyTest|Any CPU = EasyTest|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC7BF2F6-8784-40B8-B25C-201441A8DB65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC7BF2F6-8784-40B8-B25C-201441A8DB65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC7BF2F6-8784-40B8-B25C-201441A8DB65}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{EC7BF2F6-8784-40B8-B25C-201441A8DB65}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{EC7BF2F6-8784-40B8-B25C-201441A8DB65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC7BF2F6-8784-40B8-B25C-201441A8DB65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F0EA234-9A75-429E-8713-4788076B790D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F0EA234-9A75-429E-8713-4788076B790D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F0EA234-9A75-429E-8713-4788076B790D}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{7F0EA234-9A75-429E-8713-4788076B790D}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{7F0EA234-9A75-429E-8713-4788076B790D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F0EA234-9A75-429E-8713-4788076B790D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBD28397-7B98-45E4-86E7-BCDF6548D06B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBD28397-7B98-45E4-86E7-BCDF6548D06B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBD28397-7B98-45E4-86E7-BCDF6548D06B}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{CBD28397-7B98-45E4-86E7-BCDF6548D06B}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{CBD28397-7B98-45E4-86E7-BCDF6548D06B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBD28397-7B98-45E4-86E7-BCDF6548D06B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
